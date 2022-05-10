@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Ram Sthapit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&theme=radical)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsthapit&layout=compact&theme=buefy&hide_border=true" />
 <!--
 **ramsthapit/ramsthapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
