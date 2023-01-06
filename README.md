@@ -53,12 +53,11 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   </a>
-  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
   </a> 
@@ -66,13 +65,13 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsthapit&show_icons=true&locale=en&layout=compact" alt="ramsthapit" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsthapit&show_icons=true&locale=en&layout=compact" alt="ramsthapit" />;
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&locale=en" alt="ramsthapit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&locale=en" alt="ramsthapit" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsthapit&" alt="ramsthapit" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsthapit&" alt="ramsthapit" /></p> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramsthapit&label=Profile%20views&color=0e75b6&style=flat" alt="ramsthapit" /> 
 </p>
