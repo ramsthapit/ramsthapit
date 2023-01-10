@@ -63,13 +63,15 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&locale=en" alt="ramsthapit" />
+</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsthapit&show_icons=true&locale=en&layout=compact" alt="ramsthapit" />;
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&locale=en" alt="ramsthapit" />
-</p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&theme=onedark) -->
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsthapit&" alt="ramsthapit" /></p> -->
 <p align="left">
