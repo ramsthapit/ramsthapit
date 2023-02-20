@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-<!-- ![Ram Sthapit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&theme=radical)
+<!-- ![Ram Sthapit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&theme=radical) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsthapit&layout=compact&theme=buefy&hide_border=true" />
-<!--
-**ramsthapit/ramsthapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<!-- **ramsthapit/ramsthapit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ -->
+- 🔭 I’m currently working on YATRAA
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,7 +24,10 @@ Here are some ideas to get you started:
   </a>&nbsp; 
 </p>
 <p>
-<h3 align="left">Languages and Tools:</h3>
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsthapit&layout=compact&theme=buefy&hide_border=true" />
+  
+## Languages and Tools:
 
 <p align="left">
    
@@ -63,17 +67,42 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/ramsthapit" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ram_sthapit" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ram-sthapit/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sthapitRam" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ram_sthapit" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/> 
+
+## Github Stats  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&locale=en" alt="ramsthapit" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsthapit&show_icons=true&locale=en&layout=compact" alt="ramsthapit" />;
-</p>
+</p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsthapit&show_icons=true&theme=onedark) -->
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsthapit&" alt="ramsthapit" /></p> -->
+
+ 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramsthapit&label=Profile%20views&color=0e75b6&style=flat" alt="ramsthapit" /> 
 </p>
