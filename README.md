@@ -69,7 +69,9 @@ Here are some ideas to get you started:
  </a> 
 </div>
 
-</td><td valign="top" width="33%">
+ </td></tr>
+ <tr>
+ <td valign="top" width="33%">
 
 
 
@@ -82,14 +84,16 @@ Here are some ideas to get you started:
 <a href="https://www.atlassian.com/software/jira/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="Jira" height="50" /></a> 
 </div>
 </td>
-</tr></table>  
-
+<td valign="top" width="33%">
+ 
+ 
+ 
  ### Database
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img  style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a> 
-
+</tr></table>  
 <br/>  
  
 <!-- ## Languages and Tools:
