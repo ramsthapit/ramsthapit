@@ -15,9 +15,10 @@ Here are some ideas to get you started:
   </a>&nbsp; 
 </p>
 
-
+<!--
 - 🔭 I’m currently working on YATRAA
 - 🌱 I’m currently learning Django, AI
+-->
 - 📫 How to reach me: ramsthapit50@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
